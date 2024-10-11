@@ -1,3 +1,4 @@
+import React from 'react'
 import { render } from '@testing-library/react';
 import { GifItem } from '../../src/components/GifItem';
 
